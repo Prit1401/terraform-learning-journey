@@ -1,17 +1,21 @@
-*Terraform Learning Journey*
+# Terraform Learning Journey 🚀
 
 ## About This Repository
 
 ## Why I Created This Repository
 
+## Who Is This Repository For?
+
 ## Learning Approach
 
 ## Repository Structure
 
-## Terraform Roadmap Covered
+## Topics Covered
 
 ## Hands-On Labs
 
-## Notes for Beginners
+## How to Use This Repository
+
+## Disclaimer
 
 ## Connect With Me
