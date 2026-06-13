@@ -4,6 +4,7 @@
 ## What are Variables?
 Variables allow us to parameterize Terraform configurations by avoiding hardcoded values.
 Instead of modifying the code repeatedly for different environments, variables help make configurations reusable and flexible.
+
 ---
 
 ## Why are Variables Needed?
@@ -28,6 +29,7 @@ variable "instance_type" {
 
 ## Usage
 instance_type = var.instance_type
+
 ---
 
 # Variable Components
@@ -46,6 +48,7 @@ Examples:
 
 ## Default
 Provides a fallback value.
+
 ---
 
 # Benefits of Variables
