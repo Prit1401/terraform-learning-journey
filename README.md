@@ -1,2 +1,17 @@
-# terraform-learning-journey
-A beginner-friendly Terraform learning repository documenting concepts, hands-on examples, and real-world insights from my Terraform learning journey.
+*Terraform Learning Journey*
+
+## About This Repository
+
+## Why I Created This Repository
+
+## Learning Approach
+
+## Repository Structure
+
+## Terraform Roadmap Covered
+
+## Hands-On Labs
+
+## Notes for Beginners
+
+## Connect With Me
