@@ -1,6 +1,6 @@
 *Terraform Fundamentals*
 
-#What is Terraform?
+##What is Terraform?
 
 ## Why Terraform Was Created?
 
